@@ -30,3 +30,23 @@ h1 {
 input[type=range] {
     width: 300px;
 }
+
+/* Estilo de la leyenda dentro del mapa */
+.legend {
+    line-height: 18px;
+    color: #555;
+    background-color: white;
+    padding: 6px 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+
+.legend i {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    margin-right: 8px;
+}
+
